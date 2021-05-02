@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="redLoc">
+        <item>North Springs</item>
+        <item>Sandy Springs</item>
+        <item>Dunwoody</item>
+        <item>Medical Center</item>
+        <item>Buckhead</item>
+        <item>Lindbergh Center</item>
+        <item>Arts Center</item>
+        <item>Midtown</item>
+        <item>North Avenue</item>
+        <item>Civic Center</item>
+        <item>Peachtree Center</item>
+        <item>Five Points</item>
+        <item>Garnett</item>
+        <item>West End</item>
+        <item>Oakland City</item>
+        <item>Lakewood/Ft. McPherson</item>
+        <item>East Point</item>
+        <item>College Park</item>
+        <item>Airport</item>
+    </string-array>
+
+    <string-array name="r0">
+        <item>Sandy Springs</item>
+        <item>Dunwoody</item>
+        <item>Medical Center</item>
+        <item>Buckhead</item>
+        <item>Lindbergh Center</item>
+        <item>Arts Center</item>
+        <item>Midtown</item>
+        <item>North Avenue</item>
+        <item>Civic Center</item>
+        <item>Peachtree Center</item>
+        <item>Five Points</item>
+        <item>Garnett</item>
+        <item>West End</item>
+        <item>Oakland City</item>
+        <item>Lakewood/Ft. McPherson</item>
+        <item>East Point</item>
+        <item>College Park</item>
+        <item>Airport</item>
+    </string-array>
+
+    <string-array name="r1">
+        <item>North Springs</item>
+        <item>Dunwoody</item>
+        <item>Medical Center</item>
+        <item>Buckhead</item>
+        <item>Lindbergh Center</item>
+        <item>Arts Center</item>
+        <item>Midtown</item>
+        <item>North Avenue</item>
+        <item>Civic Center</item>
+        <item>Peachtree Center</item>
+        <item>Five Points</item>
+        <item>Garnett</item>
+        <item>West End</item>
+        <item>Oakland City</item>
+        <item>Lakewood/Ft. McPherson</item>
+        <item>East Point</item>
+        <item>College Park</item>
+        <item>Airport</item>
+    </string-array>
+
+    <string-array name="r2">
+        <item>North Springs</item>
+        <item>Sandy Springs</item>
+        <item>Medical Center</item>
+        <item>Buckhead</item>
+        <item>Lindbergh Center</item>
+        <item>Arts Center</item>
+        <item>Midtown</item>
+        <item>North Avenue</item>
+        <item>Civic Center</item>
+        <item>Peachtree Center</item>
+        <item>Five Points</item>
+        <item>Garnett</item>
+        <item>West End</item>
+        <item>Oakland City</item>
+        <item>Lakewood/Ft. McPherson</item>
+        <item>East Point</item>
+        <item>College Park</item>
+        <item>Airport</item>
+    </string-array>
+
+    <string-array name="r3">
+        <item>North Springs</item>
+        <item>Sandy Springs</item>
+        <item>Dunwoody</item>
+        <item>Buckhead</item>
+        <item>Lindbergh Center</item>
+        <item>Arts Center</item>
+        <item>Midtown</item>
+        <item>North Avenue</item>
+        <item>Civic Center</item>
+        <item>Peachtree Center</item>
+        <item>Five Points</item>
+        <item>Garnett</item>
+        <item>West End</item>
+        <item>Oakland City</item>
+        <item>Lakewood/Ft. McPherson</item>
+        <item>East Point</item>
+        <item>College Park</item>
+        <item>Airport</item>
+    </string-array>
+
+    <string-array name="r4">
+        <item>North Springs</item>
+        <item>Sandy Springs</item>
+        <item>Dunwoody</item>
+        <item>Medical Center</item>
+        <item>Lindbergh Center</item>
+        <item>Arts Center</item>
+        <item>Midtown</item>
+        <item>North Avenue</item>
+        <item>Civic Center</item>
+        <item>Peachtree Center</item>
+        <item>Five Points</item>
+        <item>Garnett</item>
+        <item>West End</item>
+        <item>Oakland City</item>
+        <item>Lakewood/Ft. McPherson</item>
+        <item>East Point</item>
+        <item>College Park</item>
+        <item>Airport</item>
+    </string-array>
+
+    <string-array name="r5">
+        <item>North Springs</item>
+        <item>Sandy Springs</item>
+        <item>Dunwoody</item>
+        <item>Medical Center</item>
+        <item>Buckhead</item>
+        <item>Arts Center</item>
+        <item>Midtown</item>
+        <item>North Avenue</item>
+        <item>Civic Center</item>
+        <item>Peachtree Center</item>
+        <item>Five Points</item>
+        <item>Garnett</item>
+        <item>West End</item>
+        <item>Oakland City</item>
+        <item>Lakewood/Ft. McPherson</item>
+        <item>East Point</item>
+        <item>College Park</item>
+        <item>Airport</item>
+    </string-array>
+
+    <string-array name="r6">
+        <item>North Springs</item>
+        <item>Sandy Springs</item>
+        <item>Dunwoody</item>
+        <item>Medical Center</item>
+        <item>Buckhead</item>
+        <item>Lindbergh Center</item>
+        <item>Midtown</item>
+        <item>North Avenue</item>
+        <item>Civic Center</item>
+        <item>Peachtree Center</item>
+        <item>Five Points</item>
+        <item>Garnett</item>
+        <item>West End</item>
+        <item>Oakland City</item>
+        <item>Lakewood/Ft. McPherson</item>
+        <item>East Point</item>
+        <item>College Park</item>
+        <item>Airport</item>
+    </string-array>
+
+    <string-array name="r7">
+        <item>North Springs</item>
+        <item>Sandy Springs</item>
+        <item>Dunwoody</item>
+        <item>Medical Center</item>
+        <item>Buckhead</item>
+        <item>Lindbergh Center</item>
+        <item>Arts Center</item>
+        <item>North Avenue</item>
+        <item>Civic Center</item>
+        <item>Peachtree Center</item>
+        <item>Five Points</item>
+        <item>Garnett</item>
+        <item>West End</item>
+        <item>Oakland City</item>
+        <item>Lakewood/Ft. McPherson</item>
+        <item>East Point</item>
+        <item>College Park</item>
+        <item>Airport</item>
+    </string-array>
+
+    <string-array name="r8">
+        <item>North Springs</item>
+        <item>Sandy Springs</item>
+        <item>Dunwoody</item>
+        <item>Medical Center</item>
+        <item>Buckhead</item>
+        <item>Lindbergh Center</item>
+        <item>Arts Center</item>
+        <item>Midtown</item>
+        <item>Civic Center</item>
+        <item>Peachtree Center</item>
+        <item>Five Points</item>
+        <item>Garnett</item>
+        <item>West End</item>
+        <item>Oakland City</item>
+        <item>Lakewood/Ft. McPherson</item>
+        <item>East Point</item>
+        <item>College Park</item>
+        <item>Airport</item>
+    </string-array>
+
+    <string-array name="r9">
+        <item>North Springs</item>
+        <item>Sandy Springs</item>
+        <item>Dunwoody</item>
+        <item>Medical Center</item>
+        <item>Buckhead</item>
+        <item>Lindbergh Center</item>
+        <item>Arts Center</item>
+        <item>Midtown</item>
+        <item>North Avenue</item>
+        <item>Peachtree Center</item>
+        <item>Five Points</item>
+        <item>Garnett</item>
+        <item>West End</item>
+        <item>Oakland City</item>
+        <item>Lakewood/Ft. McPherson</item>
+        <item>East Point</item>
+        <item>College Park</item>
+        <item>Airport</item>
+    </string-array>
+
+    <string-array name="r10">
+        <item>North Springs</item>
+        <item>Sandy Springs</item>
+        <item>Dunwoody</item>
+        <item>Medical Center</item>
+        <item>Buckhead</item>
+        <item>Lindbergh Center</item>
+        <item>Arts Center</item>
+        <item>Midtown</item>
+        <item>North Avenue</item>
+        <item>Civic Center</item>
+        <item>Five Points</item>
+        <item>Garnett</item>
+        <item>West End</item>
+        <item>Oakland City</item>
+        <item>Lakewood/Ft. McPherson</item>
+        <item>East Point</item>
+        <item>College Park</item>
+        <item>Airport</item>
+    </string-array>
+
+    <string-array name="r11">
+        <item>North Springs</item>
+        <item>Sandy Springs</item>
+        <item>Dunwoody</item>
+        <item>Medical Center</item>
+        <item>Buckhead</item>
+        <item>Lindbergh Center</item>
+        <item>Arts Center</item>
+        <item>Midtown</item>
+        <item>North Avenue</item>
+        <item>Civic Center</item>
+        <item>Peachtree Center</item>
+        <item>Garnett</item>
+        <item>West End</item>
+        <item>Oakland City</item>
+        <item>Lakewood/Ft. McPherson</item>
+        <item>East Point</item>
+        <item>College Park</item>
+        <item>Airport</item>
+    </string-array>
+
+    <string-array name="r12">
+        <item>North Springs</item>
+        <item>Sandy Springs</item>
+        <item>Dunwoody</item>
+        <item>Medical Center</item>
+        <item>Buckhead</item>
+        <item>Lindbergh Center</item>
+        <item>Arts Center</item>
+        <item>Midtown</item>
+        <item>North Avenue</item>
+        <item>Civic Center</item>
+        <item>Peachtree Center</item>
+        <item>Five Points</item>
+        <item>West End</item>
+        <item>Oakland City</item>
+        <item>Lakewood/Ft. McPherson</item>
+        <item>East Point</item>
+        <item>College Park</item>
+        <item>Airport</item>
+    </string-array>
+
+    <string-array name="r13">
+        <item>North Springs</item>
+        <item>Sandy Springs</item>
+        <item>Dunwoody</item>
+        <item>Medical Center</item>
+        <item>Buckhead</item>
+        <item>Lindbergh Center</item>
+        <item>Arts Center</item>
+        <item>Midtown</item>
+        <item>North Avenue</item>
+        <item>Civic Center</item>
+        <item>Peachtree Center</item>
+        <item>Five Points</item>
+        <item>Garnett</item>
+        <item>Oakland City</item>
+        <item>Lakewood/Ft. McPherson</item>
+        <item>East Point</item>
+        <item>College Park</item>
+        <item>Airport</item>
+    </string-array>
+
+    <string-array name="r14">
+        <item>North Springs</item>
+        <item>Sandy Springs</item>
+        <item>Dunwoody</item>
+        <item>Medical Center</item>
+        <item>Buckhead</item>
+        <item>Lindbergh Center</item>
+        <item>Arts Center</item>
+        <item>Midtown</item>
+        <item>North Avenue</item>
+        <item>Civic Center</item>
+        <item>Peachtree Center</item>
+        <item>Five Points</item>
+        <item>Garnett</item>
+        <item>West End</item>
+        <item>Lakewood/Ft. McPherson</item>
+        <item>East Point</item>
+        <item>College Park</item>
+        <item>Airport</item>
+    </string-array>
+
+    <string-array name="r15">
+        <item>North Springs</item>
+        <item>Sandy Springs</item>
+        <item>Dunwoody</item>
+        <item>Medical Center</item>
+        <item>Buckhead</item>
+        <item>Lindbergh Center</item>
+        <item>Arts Center</item>
+        <item>Midtown</item>
+        <item>North Avenue</item>
+        <item>Civic Center</item>
+        <item>Peachtree Center</item>
+        <item>Five Points</item>
+        <item>Garnett</item>
+        <item>West End</item>
+        <item>Oakland City</item>
+        <item>East Point</item>
+        <item>College Park</item>
+        <item>Airport</item>
+    </string-array>
+
+    <string-array name="r16">
+        <item>North Springs</item>
+        <item>Sandy Springs</item>
+        <item>Dunwoody</item>
+        <item>Medical Center</item>
+        <item>Buckhead</item>
+        <item>Lindbergh Center</item>
+        <item>Arts Center</item>
+        <item>Midtown</item>
+        <item>North Avenue</item>
+        <item>Civic Center</item>
+        <item>Peachtree Center</item>
+        <item>Five Points</item>
+        <item>Garnett</item>
+        <item>West End</item>
+        <item>Oakland City</item>
+        <item>Lakewood/Ft. McPherson</item>
+        <item>College Park</item>
+        <item>Airport</item>
+    </string-array>
+
+    <string-array name="r17">
+        <item>North Springs</item>
+        <item>Sandy Springs</item>
+        <item>Dunwoody</item>
+        <item>Medical Center</item>
+        <item>Buckhead</item>
+        <item>Lindbergh Center</item>
+        <item>Arts Center</item>
+        <item>Midtown</item>
+        <item>North Avenue</item>
+        <item>Civic Center</item>
+        <item>Peachtree Center</item>
+        <item>Five Points</item>
+        <item>Garnett</item>
+        <item>West End</item>
+        <item>Oakland City</item>
+        <item>Lakewood/Ft. McPherson</item>
+        <item>East Point</item>
+        <item>Airport</item>
+    </string-array>
+
+    <string-array name="r18">
+        <item>North Springs</item>
+        <item>Sandy Springs</item>
+        <item>Dunwoody</item>
+        <item>Medical Center</item>
+        <item>Buckhead</item>
+        <item>Lindbergh Center</item>
+        <item>Arts Center</item>
+        <item>Midtown</item>
+        <item>North Avenue</item>
+        <item>Civic Center</item>
+        <item>Peachtree Center</item>
+        <item>Five Points</item>
+        <item>Garnett</item>
+        <item>West End</item>
+        <item>Oakland City</item>
+        <item>Lakewood/Ft. McPherson</item>
+        <item>East Point</item>
+        <item>College Park</item>
+    </string-array>
+
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

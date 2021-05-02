@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="id0100">
+        <item>10 Rides</item>
+        <item>N/A</item>
+    </string-array>
+
+    <string-array name="id0101">
+        <item>13 Rides</item>
+        <item>April 2021</item>
+    </string-array>
+
+    <string-array name="id0102">
+        <item>0 Rides</item>
+        <item>May 2021</item>
+    </string-array>
+
+    <string-array name="id0103">
+        <item>3 Rides</item>
+        <item>N/A</item>
+    </string-array>
+
+
+</resources>
